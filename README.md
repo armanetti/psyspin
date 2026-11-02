@@ -198,10 +198,6 @@ software:
 ```
 
 The paper is available on arXiv: [arXiv:2605.29739](https://arxiv.org/abs/2605.29739).
-The software DOI above will be filled in automatically by Zenodo the first
-time a GitHub release is archived — replace `XXXXXXX` once you have the real
-record number, or better, point people to the "concept DOI" that always
-resolves to the latest version.
 
 ---
 
